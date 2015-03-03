@@ -1,0 +1,57 @@
+h1 {
+	text-align:center;
+	font-family:comicsansms
+}
+
+p {
+	font-family:veranda
+}
+
+h2 {
+	font-family:comicsansms
+}
+
+body {
+	background-color:lightsteelblue
+}
+
+h2#p01 {
+	color:red
+}
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+    text-align: center;
+}
+th, td {
+    padding: 5px;
+}
+#header {
+    background-image:url(wood_floor.jpg);
+    color:white;
+    text-align:center;
+    padding:35px;
+    font-size:300%;
+    font-family:comicsansms;
+}
+#nav {
+    line-height:10px;
+    background-color:#eeeeee;
+    width:100%;
+    float:top;
+    padding:10px;
+    	      
+}
+#section {
+    width:1200px;
+    float:left;
+    padding:10px; 	 
+}
+#footer {
+    background-image:url(background_scroll.jpg);
+    color:white;
+    clear:both;
+    text-align:center;
+   padding:5px;	 	 
+}
+
